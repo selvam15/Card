@@ -1,0 +1,7 @@
+{
+  "name": "Customized Cards and Posters Premium Shop",
+  "description": "A high-end, animated e-commerce platform for ordering customized cards and posters with WhatsApp integration, user profiles, and a stunning neon glassmorphism UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
