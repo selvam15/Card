@@ -6,7 +6,7 @@ import { WHATSAPP_NUMBER } from '../constants';
 
 export const Hero: React.FC = () => {
   const handleOrderNow = () => {
-    const message = encodeURIComponent("Hi, I want to order customized cards.");
+    const message = encodeURIComponent("Hi, I want to order customized cards. give here your detials and uplode your Photos");
     window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${message}`, '_blank');
   };
 
